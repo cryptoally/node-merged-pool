@@ -34,7 +34,7 @@
         "url": "https://github.com/cryptoally/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "*",
+        "unomp-multi-hashing": "git://github.com/cryptoally/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
